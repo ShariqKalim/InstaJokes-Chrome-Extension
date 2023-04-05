@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+body {
+   width: 300px;
+   height: 300px;
+   text-align: center;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+    color: rgba(11, 103, 131, 0.857);
+}
+img{
+    width: 300px
+}
